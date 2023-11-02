@@ -10,8 +10,6 @@ import pexpect
 import re
 import string
 
-chat_hist="John: Hi, my name is John and I am a middle school alchoholic.\n Bob: Hi, my name is Bob and I am also a middle school alchoholic. \n Jeff: Hi, my name is Jeff and I am also a middle school alchoholic and I am from New York. \n John: I had a big surgery one year ago and used alchohol to drown out the pain. \n Bob: My parents got divorced and alchohol helped me cope. \n Jeff: I was peer pressured by my friends."
-
 def group_get_solace(chat_hist):
     load_dotenv()
     openai.api_key = os.getenv("OPENAI_API_KEY")
