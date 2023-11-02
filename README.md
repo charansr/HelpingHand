@@ -1,2 +1,2 @@
-# MentalHealthYouthSolutions
-Helping youth overcome mental health problems using an anonymous chat service with other youth. Integrates an AI chatbot to speak with users and guide conversations between users.
+# HelpingHand
+Supporting youth overcoming mental health challenges via an online chat service connecting them with peers while integrating an AI chatbot to guide their conversations.
